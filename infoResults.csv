@@ -1,0 +1,19 @@
+Sr_no,programmType,iterations,plotEvery,averageTimeTaken,standardDeviation
+1,serial,200,200,4.82 s,396 ms
+2,gpu,200,200,222 ms,5.01 ms
+3,gpu_opt,200,200,133 ms,4.89 ms
+4,serial,1000,200,18.5 s,227 ms
+5,gpu,1000,200,1.13 s,22.6 ms
+6,gpu_opt,1000,200,568 ms,1.98 ms
+7,serial,2000,200,44.4 s,5.58 s
+8,gpu,2000,200,2.28 s,29.7 ms
+9,gpu_opt,2000,200,1.13 s,2.04 ms
+10,serial,5000,200,87 s,201 ms
+11,gpu,5000,200,5.74 s,8.87 ms
+12,gpu_opt,5000,200,2.82 s,8.21 ms
+13,serial,10000,200,187 s,1.52 s
+14,gpu,10000,200,11.7 s,210 ms
+15,gpu_opt,10000,200,5.67 s,17.4 ms
+16,serial,20000,200,412 s,20.8 s
+17,gpu,20000,200,24 s,1.05 s
+18,gpu_opt,20000,200,11.6 s,392 ms

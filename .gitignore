@@ -1,0 +1,6 @@
+*.pdf
+/out
+/gpu_out
+/gpu_opt_out
+__pycache__
+*.prof
