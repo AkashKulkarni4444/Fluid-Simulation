@@ -1,10 +1,3 @@
-# HPC group project
-
-## Group Members :
-1. Akash Kulkarni (S20210010011)
-2. Animesh Shree (S20210010020)
-3. Priyansh Singhal (S20210010178)
-
 ## Topic: Parallelisation of Simulation of Fluid Dynamics using Lattice-Boltzmann Approximation using CUDA in Numba
 
 ## Steps:
